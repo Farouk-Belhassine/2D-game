@@ -23,4 +23,4 @@
 </ul>
 
 <h2>Credits</h2>
-<p>Trial of the Grey Matter was created for <img src="https://drive.google.com/uc?export=view&id=184rv7Si4uDeOx8PXRRzGq1WbCByRZ2gO" alt="esprit" width="40"> as a second semester project.</p>
+<p>Trial of the Grey Matter was created for <img src="https://drive.google.com/uc?export=view&id=184rv7Si4uDeOx8PXRRzGq1WbCByRZ2gO" alt="esprit" width="40" href="https://esprit.tn/"> as a second semester project.</p>
