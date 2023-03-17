@@ -19,7 +19,7 @@
 	<li>Left arrow key: Move left</li>
 	<li>Right arrow key: Move right</li>
 	<li>Up arrow key: Jump</li>
-	<li>Spacebar: Shoot</li>
+	<li>Spacebar: Attack</li>
 </ul>
 
 <h2>Credits</h2>
